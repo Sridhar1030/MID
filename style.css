@@ -82,8 +82,9 @@
     display: flex;
     padding-right: 50px;
     margin-right: 230px;
-    width: 30px;
+    width: 100vw;
     height: 54px;
+    cursor: pointer;
 }
 .name  {
     display: flex;
